@@ -1,0 +1,65 @@
+Enter the number of array elements: 
+Enter array elements A:
+A[0] = A[1] = A[2] = A[3] = A[4] = A[5] = A[6] = A[7] = A[8] = A[9] = 
+Enter array elements B:
+B[0] = B[1] = B[2] = B[3] = B[4] = B[5] = B[6] = B[7] = B[8] = B[9] = 
+
+Array elements A:
+A[0] = -4
+A[1] = -2
+A[2] = 64
+A[3] = 93
+A[4] = 8
+A[5] = 12
+A[6] = -50
+A[7] = 45
+A[8] = 9
+A[9] = 23
+
+Array elements B:
+B[0] = 95
+B[1] = 23
+B[2] = 91
+B[3] = -10
+B[4] = -20
+B[5] = 60
+B[6] = 34
+B[7] = 65
+B[8] = 24
+B[9] = 10
+
+Array C contains only negative elements arranged in descending order.
+Sort arrray C:
+C[0] = -2
+C[1] = -4
+C[2] = -10
+C[3] = -20
+C[4] = -50
+
+Array D accepts even elements arranged in descending order.
+Sort arrray D:
+D[0] = 64
+D[1] = 60
+D[2] = 34
+D[3] = 24
+D[4] = 12
+D[5] = 10
+D[6] = 8
+D[7] = -2
+D[8] = -4
+D[9] = -10
+D[10] = -20
+D[11] = -50
+
+Array E, where E(0) and E(1) are maximum and minimum array elements A; E(2) and E(3) are the maximum and minimum indices elements of array B.
+Sort arrray E:
+E[0] = 93 - maximum element of array A;
+E[1] = -50 - minimum element of array A;
+E[2] = 0 - index of maximum element in array B;
+E[3] = 4 - index of minimum element in array B.
+
+
+The sequence of elements of array A is not in ascending order.
+
+The sequence of elements of array B is not in ascending order.
+
